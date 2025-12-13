@@ -1,0 +1,28 @@
+# ...existing code...
+name: mini_mood_diary
+description: Міні-щоденник настрою
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  firebase_analytics: ^11.3.0
+  google_sign_in: ^6.1.8
+  fl_chart: ^0.68.0
+  sentry_flutter: ^9.8.0
+  flutter_bloc: ^9.1.1
+  equatable: ^2.0.7
+  cloud_firestore: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+# ...existing code...

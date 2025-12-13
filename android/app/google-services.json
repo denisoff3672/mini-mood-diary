@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809801474895",
+    "project_id": "mini-mood-diary",
+    "storage_bucket": "mini-mood-diary.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809801474895:android:e87b368b0ef08345e6db3a",
+        "android_client_info": {
+          "package_name": "com.example.mini_mood_diary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqTHwj_DA5_hga7gTcOt383iRkBVIQr40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
